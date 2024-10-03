@@ -1,0 +1,77 @@
+{
+    "logo": "/images/hero/AIMLSA L2.png",
+    "logo_url": "/",
+    "copyright": "AIMLSA. All rights reserved.",
+    "social": [
+        {
+            "link": "https://www.instagram.com/aimlsasgu",
+            "icon": "ph-instagram-logo",
+            "icon_alt": "Instagram"
+        },
+        {
+            "link": "https://www.twitter.com/mycompany",
+            "icon": "ph-twitter-logo",
+            "icon_alt": "Twitter"
+        },
+        {
+            "link": "https://www.github.com/mycompany",
+            "icon": "ph-github-logo",
+            "icon_alt": "GitHub"
+        },
+        {
+            "link": "https://www.youtube.com/mycompany",
+            "icon": "ph-youtube-logo",
+            "icon_alt": "YouTube"
+        }
+    ],
+    "sections": [
+        {
+            "title": "Main Pages",
+            "links": [
+                {
+                    "link": "/",
+                    "text": "Home"
+                },
+                {
+                    "link": "/features",
+                    "text": "Events"
+                },
+                {
+                    "link": "/pricing",
+                    "text": "Membership Fees"
+                },
+                {
+                    "link": "/about",
+                    "text": "About"
+                }
+            ]
+        },
+        {
+            "title": "Community",
+            "links": [
+                {
+                    "link": "/blog",
+                    "text": "Blog"
+                }
+            ]
+        },
+        {
+            "title": "Association",
+            "links": [
+                {
+                    "link": "/contact",
+                    "text": "Contact"
+                },
+                {
+                    "link": "/privacy",
+                    "text": "Privacy Policy"
+                }
+            ]
+        }
+    ],
+    "_inputs": {
+      "logo": { 
+        "type": "image"
+      }
+    }
+}
