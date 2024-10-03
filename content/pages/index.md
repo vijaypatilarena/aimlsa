@@ -45,10 +45,10 @@ content_blocks:
       Our platform offers the most advanced and innovative events and functions.
 
   - _bookshop_name: global/feature
-    image: /images/feature/
+    image: /images/hero/webverse.png
     image_alt: 
     title: "Webverse"
-    description: "3Hour webathon!"
+    description: "3 Hours webathon!"
     button:
       link: "https://www.walstartechnologies.com/webverse/"
       text: Register
