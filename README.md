@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # AIMLSA
 
-AIMLSA is a polished, association website build on to of a template for NextJS.
+AIMLSA is a polished, association website build on to of a template for NextJS. Artificial Intelligence & Machine Learning Students Association
 
 =======
 # aimlsa
