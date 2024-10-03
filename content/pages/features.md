@@ -24,8 +24,8 @@ content_blocks:
     description: Our platform offers the most advanced and innovative events and functions.
 
   - _bookshop_name: global/feature
-    image: 
-    image_alt: Img
+    image: /images/hero/webverse.png
+    image_alt: 
     title: Webverse
     description: "3 Hour Webathon!"
     button:
