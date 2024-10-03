@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sendit
 
 Sendit is a polished, marketing website template for NextJS. Browse through a [live demo](https://mysterious-oryx.cloudvent.net/). 
@@ -56,3 +57,6 @@ Sendit is set up for adding, updating and removing pages, components, posts, por
 * Theme colors can be set in *Data* / *Theme*
 * The main colors are set and variants of them are computed
 * The colors will update on the next build
+=======
+# aimlsa
+>>>>>>> 9a1d12d5ce0a4fd6f89d5df6cace23413676888d
