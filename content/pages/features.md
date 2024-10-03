@@ -27,10 +27,10 @@ content_blocks:
     image: 
     image_alt: Img
     title: Webverse
-    description: "Web Dev Hackathon!"
+    description: "3 Hour Webathon!"
     button:
-      link: "/"
-      text: Coming Soon
+      link: "https://www.walstartechnologies.com/webverse/"
+      text: Register Now!
     reversed: false
 
   - _bookshop_name: global/feature
