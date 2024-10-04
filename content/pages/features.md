@@ -29,7 +29,7 @@ content_blocks:
     title: Webverse
     description: "3 Hour Webathon!"
     button:
-      link: "https://www.walstartechnologies.com/webverse/"
+      link: "https://docs.google.com/forms/d/e/1FAIpQLSe-7wt8_fjMI5UJBGSw625Teqju0DwTgG7x06-xDyh2ifwMpw/viewform?usp=pp_url"
       text: Register Now!
     reversed: false
 
