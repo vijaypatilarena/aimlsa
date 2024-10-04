@@ -100,7 +100,7 @@ content_blocks:
           - item: Unlimited activity history
             active_feature: true
         button:
-          link: "https://docs.google.com/forms/d/e/1FAIpQLSc5hYtbG4uCGWfxl5OR_tGMlhMnNsQwBfVgPoAruCYqaXd_fg/viewform?usp=pp_url"
+          link: "https://docs.google.com/forms/d/e/1FAIpQLSdntUNo2AgxaPOkLThcaDWlCPDhjMTlYQkbVXb-9_gPq5OQ3A/viewform?usp=pp_url"
           text: Sponsor!
 
   - _bookshop_name: global/faq
