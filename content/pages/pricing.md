@@ -71,7 +71,7 @@ content_blocks:
           - item: Unlimited productivity!
             active_feature: true
         button:
-          link: "/"
+          link: "https://docs.google.com/forms/d/e/1FAIpQLSc5hYtbG4uCGWfxl5OR_tGMlhMnNsQwBfVgPoAruCYqaXd_fg/viewform?usp=pp_url"
           text: Join
       - tier: Verda (Business & Sponsorships)
         highlight_tier: false
@@ -100,7 +100,7 @@ content_blocks:
           - item: Unlimited activity history
             active_feature: true
         button:
-          link: "/"
+          link: "https://docs.google.com/forms/d/e/1FAIpQLSc5hYtbG4uCGWfxl5OR_tGMlhMnNsQwBfVgPoAruCYqaXd_fg/viewform?usp=pp_url"
           text: Sponsor!
 
   - _bookshop_name: global/faq

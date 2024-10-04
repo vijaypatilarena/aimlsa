@@ -8,7 +8,7 @@ content_blocks:
     image_alt: AIMLSA Logo
     button:
       text: Join AIMLSA!
-      link: /signup
+      link: "https://docs.google.com/forms/d/e/1FAIpQLSc5hYtbG4uCGWfxl5OR_tGMlhMnNsQwBfVgPoAruCYqaXd_fg/viewform?usp=pp_url"
 
   - _bookshop_name: global/counter
     title: Events That Hits
