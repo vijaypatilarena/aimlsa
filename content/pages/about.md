@@ -57,6 +57,18 @@ content_blocks:
   - _bookshop_name: about/team
     title: Our leadership team
     team_members:
+
+
+      - name: Mr. Manish Deshpande
+        designation: Technical Advisor
+        image: /images/team/meme.jpg
+        image_alt: "Team member: Mr. Manish Deshpande"
+    
+
+      - name: Mr. Tushar Nangare 
+        designation: Design & Media Advisor
+        image: /images/team/meme.jpg
+        image_alt: "Team member: Mr. Tushar Nangare "
       - name: Mr. Vijay Patil
         designation: President
         image: /images/team/1.jpg
@@ -64,22 +76,22 @@ content_blocks:
 
       - name: Ms. Preet Bhokare
         designation: Vice-President
-        image: /images/team/2.jpg
+        image: /images/team/5.jpg
         image_alt: "Team member: Preet Bhokare"
 
       - name: Ms. Aishwarya Patil
         designation: Secretary
-        image: /images/team/3.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Aishwarya Patil"
 
       - name: Ms. Purva Lohar
         designation: Treasurer
-        image: /images/team/4.jpg
+        image: /images/team/7.jpg
         image_alt: "Team member: Purva Lohar"
 
       - name: Mr. Vinit Majethiya
         designation: Public Relation Officer
-        image: /images/team/5.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Mr. Vinit Majethiya"
 
       - name: Ms. Anushka S. Khot
@@ -89,80 +101,70 @@ content_blocks:
 
       - name: Ms. Tazeen Desai
         designation: Technical Co-Executive
-        image: /images/team/7.jpg
+        image: /images/team/8.jpg
         image_alt: "Team member: Tazeen Desai"
 
       - name: Mr. Ashish A. Punajiche
         designation: Technical Co-Executive
-        image: /images/team/8.jpg
+        image: /images/team/3.jpg
         image_alt: "Team member: Mr. Ashish A. Punajiche"
 
       - name: Ms. Payal B. Khot
         designation: Event Executive
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Ms. Payal B. Khot"
 
       - name: Ms. Ekta D. Narsinghani
         designation: Event Co-Executive
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Ms. Ekta D. Narsinghani"
 
       - name: Mr. Adarsh V. Pilavare
         designation: Event Co-Executive
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Mr. Adarsh V. Pilavare"
 
       - name: Ms. Dhanashree V. Latkar
         designation: Lesiure Executive
-        image: /images/team/8.jpg
+        image: /images/team/2.jpg
         image_alt: "Team member: Ms. Dhanashree V. Latkar"
 
       - name: Mr. Aditya S. Dharkas
         designation: Lesiure Co-Executive
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Mr. Aditya S. Dharkas"
 
       - name: Mr. Atharv Sathe
         designation: Lesiure Co-Executive
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Mr. Atharv Sathe"
 
       - name: Ms. Akanksha B. Mali
         designation: Ladies Representative
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Ms. Akanksha B. Mali"
 
       - name: Mr. Saahir Syed
         designation: Discipline Executive (Male)
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Mr. Saahir Syed"
 
       - name: Ms. Manasi Ringane
         designation: Discipline Executive (FeMale)
-        image: /images/team/8.jpg
+        image: /images/team/4.jpg
         image_alt: "Team member: Ms. Manasi Ringane"
 
 
       - name: Mr. Anirudh A. Misale
         designation: Discipline Co-Executive
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Mr. Anirudh A. Misale"
 
 
       - name: Mr. Raj K. Jadhav
         designation: Discipline Co-Executive
-        image: /images/team/8.jpg
+        image: /images/team/meme.jpg
         image_alt: "Team member: Mr. Raj K. Jadhav"
-
-      - name: Mr. Manish Deshpande
-        designation: Technical Advisor
-        image: /images/team/8.jpg
-        image_alt: "Team member: Mr. Manish Deshpande"
-
-      - name: Mr. Tushar Nangare 
-        designation: Design & Media Advisor
-        image: /images/team/8.jpg
-        image_alt: "Team member: Mr. Tushar Nangare "
 
 
 
