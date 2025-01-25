@@ -146,7 +146,7 @@ content_blocks:
 
       - name: Mr. Saahir Syed
         designation: Discipline Executive (Male)
-        image: /images/team/meme.jpg
+        image: /images/team/9.jpg
         image_alt: "Team member: Mr. Saahir Syed"
 
       - name: Ms. Manasi Ringane
