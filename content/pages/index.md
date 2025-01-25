@@ -54,15 +54,15 @@ content_blocks:
       text: Register
     reversed: false
 
-  - _bookshop_name: global/feature
-    image: /images/feature/
-    image_alt: 
-    title: "Navaratri.AI"
-    description: "Blend of AI with our cultural blessings!"
-    button:
-      link: "/"
-      text: Coming Soon!
-    reversed: true
+  # - _bookshop_name: global/feature
+  #   image: /images/feature/
+  #   image_alt: 
+  #   title: "Navaratri.AI"
+  #   description: "Blend of AI with our cultural blessings!"
+  #   button:
+  #     link: "/"
+  #     text: Coming Soon!
+  #   reversed: true
 
   - _bookshop_name: global/feature
     image: /images/hero/AIMLSA L2.png
