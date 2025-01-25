@@ -33,15 +33,15 @@ content_blocks:
       text: Register Now!
     reversed: false
 
-  - _bookshop_name: global/feature
-    image: 
-    image_alt: Navratri.AI
-    title: Navratri.AI
-    description: "Blend of AI with our cultural blessings!"
-    button:
-      link: "/"
-      text: Coming Soon
-    reversed: true
+  # - _bookshop_name: global/feature
+  #   image: 
+  #   image_alt: 
+  #   title: 
+  #   description: 
+  #   button:
+  #     link: "/"
+  #     text: Coming Soon
+  #   reversed: true
 
   - _bookshop_name: global/feature
     image: /images/hero/AIMLSA L2.png
