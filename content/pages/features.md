@@ -46,11 +46,12 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/hero/AIMLSA L2.png
     image_alt: AIMLSA
-    title: BREWING SOMETHING COOL SOOOOOOOOOOONNN!
-    description: "Let AI think!"
+    title: Dear AIML Students! ~ We regret to inform you that two massive lined-up events by AIMLSA are currently on hold as per the directive of our HoD, Dept. of AIML due to poor academic attendance among AIML students. Your participation in academics is crucial, and prioritize attendance and studies so that such events can proceed as planned. Let’s work together to ensure we can bring these exciting events back soon!
+
+    description: "Team AIMLSA"
     button:
       link: "/"
-      text: SoooooooN
+      text: 
     reversed: false
 
   - _bookshop_name: global/testimonial
